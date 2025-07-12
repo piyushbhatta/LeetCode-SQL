@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/Easy/1068-Product-Sales-Analysis-I.sql" dialect="SQLite" />
     <file url="file://$PROJECT_DIR$/Easy/1148-Article-Views-I.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/Easy/1378-Replace-Employee-ID-With-The-Unique-Identifier.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/Easy/1581-Customer-Who-Visited-but-Did-Not-Make-Any-Transactions.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/Easy/1661-Average-Time-of-Process-per-Machine.sql" dialect="SQLite" />
     <file url="file://$PROJECT_DIR$/Easy/1683-Invalid-Tweets.sql" dialect="SQLite" />
     <file url="file://$PROJECT_DIR$/Easy/175-combine-two-tables.SQL" dialect="SQLite" />
     <file url="file://$PROJECT_DIR$/Easy/1757-Recyclable-and-Low-Fat-Products.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/Easy/197-Rising-Temperature.sql" dialect="SQLite" />
     <file url="file://$PROJECT_DIR$/Easy/584-Find-Customer-Referee.sql" dialect="SQLite" />
     <file url="file://$PROJECT_DIR$/Easy/595-Big-Countries.sql" dialect="SQLite" />
     <file url="PROJECT" dialect="SQLite" />
